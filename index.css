@@ -15,12 +15,12 @@
 .t2 {
     text-align: center;
     font-size: 34px;
-    color: blue;
+    color: black;
 }
 
 h3 {
     font-size: 34px;
-    color:blue;
+    color: black;
     text-align: center
 }
 
@@ -32,7 +32,7 @@ h3 {
     word-spacing: 12px;
     font-size: 40px;
 }
-
+.co
 
 .t1 img {
     float: left;
@@ -45,7 +45,7 @@ h3 {
     
     text-align: center;
     font-size: 20px;
-    color: red;
+    color:black;
 
 }
 
@@ -85,17 +85,5 @@ h6{
     font-size: 40px;
 }
 body{
- background-image: url(pic.jpeg);
-
-}
-p {
-    color: white;
-    font-size: 30px;
-}
-.t1 p{
-    color: white;
-    font-size: 20px;
-}
-.column a{
-    color: red;
+    background: linear-gradient(rgb(148, 148, 24 ),blue,white)
 }
