@@ -14,11 +14,5 @@ HTML – used to create the website
 Css – used to style the web page
 Support and contact details
 In case of any questions, comments or interest in doing a project together, please contact me using any of the following:
-
-Email: ma5755333@gmail.com
-Twitter: @ma5755333
-Instagram: mussys_mustapha
-Tel- +254 723266163 
-License
 Copyright (c) {2019} Mustafa Ahmed Ibrahim
 
